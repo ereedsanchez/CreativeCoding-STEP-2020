@@ -31,7 +31,8 @@ The Syllabus will evolve through the semester.
 - Understanding Filters.  Air Filter, water filters and instagram filters.  Slides: https://docs.google.com/presentation/d/1ooV2cSYlFcDm4-lAG6us7gbYGQP2XAxhVN8U7H3bb5k/edit?usp=sharing
 
 ##### July 15
-- 
+- Functions + Variables
+Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuuZHuFpUZ-Mg4/edit?usp=sharing
 
-
-### Week 2 - Getting to know you
+- var and hardcoded variables, and functions. 
+ 
