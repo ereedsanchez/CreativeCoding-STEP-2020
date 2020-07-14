@@ -43,5 +43,6 @@ Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuu
 - Vidcode 
   - Recreate Filter
   - Digital Quilt
+  - Make meme
 
 - Quilts and Tryptics. 
