@@ -21,7 +21,7 @@ This class will use a variety of software that will provide a basic understandin
 
 #### Please add a ICON that represents on your Zoom Account. 
 
-### Syllabus 
+## Syllabus 
 The Syllabus will evolve through the semester. 
 
 #### Week 1 - Introductions
