@@ -26,12 +26,12 @@ This class will use a variety of software that will provide a basic understandin
 The Syllabus will evolve through the semester. 
 
 #### Week 1 - Introductions
-##### July 14
+#### July 14
 - Who is Edwin Reed-Sanchez. The power of code, and how to go from knowing nothing to installing a cellphone network on a remote island. Slides: https://docs.google.com/presentation/d/1B6oHCOiXYakWqqTYde5xxxoSYElHabv8n3A4uh4eYBs/edit?usp=sharing  
 
 - Understanding Filters.  Air Filter, water filters and instagram filters.  Slides: https://docs.google.com/presentation/d/1ooV2cSYlFcDm4-lAG6us7gbYGQP2XAxhVN8U7H3bb5k/edit?usp=sharing
 
-##### July 15
+#### July 15
 - Functions + Variables
 Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuuZHuFpUZ-Mg4/edit?usp=sharing
 
