@@ -32,14 +32,13 @@ The Syllabus will evolve through the semester.
 - Understanding Filters.  Air Filter, water filters and instagram filters.  Slides: https://docs.google.com/presentation/d/1ooV2cSYlFcDm4-lAG6us7gbYGQP2XAxhVN8U7H3bb5k/edit?usp=sharing
 
 #### July 15
-- Functions + Variables
+- Variables and Functions
 Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuuZHuFpUZ-Mg4/edit?usp=sharing
 
-- var and hardcoded variables, and functions. 
+- var + hardcoded variables/functions. 
+- How to upload videos and graphics. 
 
-- Upload videos and graphics. 
-
-- Summer 2020 - Reflect your experience when making your digital quilt.  
+CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt.  
 
 - Vidcode 
   - Recreate Filter
