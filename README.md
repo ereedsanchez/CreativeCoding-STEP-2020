@@ -5,7 +5,7 @@ This repository has resources for the STEP Creative Coding Class at Bronx Commui
 ### Software
 This class will use a variety of software that will provide a basic understanding of the coding process.  
 - Vidcode(http://vidcode.com) 
-  - To joingclass use this link(https://www.vidcode.com/groups/join/hear-ninety-five-silver-buildings) 
+  - To join this class use this link: https://www.vidcode.com/groups/join/hear-ninety-five-silver-buildings 
   - If you are already have a vidcount account use this code to join a class:  hear ninety five silver buildings
 
 #### Please add a ICON that represents on your Zoom Account. 
