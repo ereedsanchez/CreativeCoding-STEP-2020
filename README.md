@@ -35,4 +35,13 @@ The Syllabus will evolve through the semester.
 Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuuZHuFpUZ-Mg4/edit?usp=sharing
 
 - var and hardcoded variables, and functions. 
- 
+
+- Upload videos and graphics. 
+
+- Summer 2020 - Reflect your experience when making your digital quilt.  
+
+- Vidcode 
+  - Recreate Filter
+  - Digital Quilt
+
+- Quilts and Tryptics. 
