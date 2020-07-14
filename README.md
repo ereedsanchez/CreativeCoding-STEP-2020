@@ -1,6 +1,7 @@
 # CreativeCoding-STEP-2020
 
-This repository has resources for the STEP Creative Coding Class at Bronx Commuity College. 
+Creative Coding Class is an introduction to computer programming. It uses the visual canvass as a phylosophy in teaching javascript.  Javascript is one of the most comonly used languages on the web, for front end and backend applications.  From this class students will understand the concepts of coding and can feel confident in solving technical and creative problems.  
+
 
 ### Software
 This class will use a variety of software that will provide a basic understanding of the coding process.  
