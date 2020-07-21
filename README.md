@@ -46,3 +46,31 @@ CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt.
   - Make meme
 
 - Quilts and Tryptics. 
+
+
+#### Week 2 - Getting to know Javascript
+#### July 20
+- Review last weeks projects
+- Review Variables 
+- Review Functions
+
+- Import images to videcode.com from other website. https://unsplash.com/
+   
+- Vidcode 
+  - Make Meme
+  
+- Download + install - Sublime Text (https://www.sublimetext.com/) 
+
+  #### July 21
+- Review Variables 
+- Review Functions
+
+- Take picture of your shoes
+  Tutorial on taking pictures and uploading them to vidcode.com
+
+- Vidcode 
+  - Make Meme
+  - Doge Meme
+  - Javascript Test
+
+- Download + install - Sublime Text (https://www.sublimetext.com/)
