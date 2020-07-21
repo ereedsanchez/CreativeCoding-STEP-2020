@@ -1,6 +1,6 @@
 # CreativeCoding-STEP-2020
 
-Creative Coding Class is part of the STEP Program at Bronx Community College and an introduction to computer programming. It uses the visual canvass as a philosophy in teaching Javascript. Javascript is one of the most comonly used languages on the web, for front-end and back-end applications.  From this class students will understand the concepts of coding and can feel confident in solving technical and creative problems.  
+Creative Coding Class is part of the STEP Program at Bronx Community College. It is an introduction to computer programming that uses a visual canvass as a philosophy in teaching Javascript. Javascript is one of the most comonly used languages on the web, for front-end and back-end applications.  From this class students will understand the concepts of coding and can feel confident in solving technical and creative problems.  
 
 
 ### Software
@@ -19,33 +19,43 @@ This class will use a variety of software that will provide a basic understandin
 - Sublime Text (https://www.sublimetext.com/)  
   - Professional text editor for coding.   
 
+#### Grading: 
+There will be no grades for this summer class
+
+#### Prizes: 
+There is an end of semester competition for best project.  1st place $100, 2nd place $50, 3rd place $25. 
 
 #### Please add a ICON that represents on your Zoom Account. 
+
 
 ## Syllabus 
 The Syllabus will evolve through the semester. 
 
+
 #### Week 1 - Introductions
 #### July 14
-- Who is Edwin Reed-Sanchez. The power of code, and how to go from knowing nothing to installing a cellphone network on a remote island. Slides: https://docs.google.com/presentation/d/1B6oHCOiXYakWqqTYde5xxxoSYElHabv8n3A4uh4eYBs/edit?usp=sharing  
+- Who is your professor Edwin Reed-Sanchez? The power of code, and how to go from knowing nothing to installing a cellphone network on a remote island. 
+  Slides: https://docs.google.com/presentation/d/1B6oHCOiXYakWqqTYde5xxxoSYElHabv8n3A4uh4eYBs/edit?usp=sharing  
 
-- Understanding Filters.  Air Filter, water filters and instagram filters.  Slides: https://docs.google.com/presentation/d/1ooV2cSYlFcDm4-lAG6us7gbYGQP2XAxhVN8U7H3bb5k/edit?usp=sharing
+- Understanding Filters.  Air Filter, water filters and instagram filters.  
+  Slides: https://docs.google.com/presentation/d/1ooV2cSYlFcDm4-lAG6us7gbYGQP2XAxhVN8U7H3bb5k/edit?usp=sharing
+
+- Vidcode (Inclass Projects)
+  - Make filter (walkthrough)
 
 #### July 15
 - Variables and Functions
-Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuuZHuFpUZ-Mg4/edit?usp=sharing
+  Slides: https://docs.google.com/presentation/d/1JAFowiNV2czBx4OnSv4j0L_uBg06hSuuZHuFpUZ-Mg4/edit?usp=sharing
 
 - var + hardcoded variables/functions. 
 - How to upload videos and graphics. 
 
-CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt.  
+CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt. 
+Tryptics in Art:  For your projects we are working towards building a series of digital media that we can present as a tryptic. Slides will have some examples of trytics. 
 
-- Vidcode 
+- Vidcode (Inclass Projects)
   - Recreate Filter
-  - Digital Quilt
-  - Make meme
-
-- Quilts and Tryptics. 
+  - Digital Quilt (walkthrough) 
 
 
 #### Week 2 - Getting to know Javascript
