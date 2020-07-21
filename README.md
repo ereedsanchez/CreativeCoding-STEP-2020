@@ -55,24 +55,41 @@ Slides: https://docs.google.com/presentation/d/1ezfT13c1HQuGO5uvBdH0FdKoDM2-p_Y8
 - Review last weeks projects
 - Review Variables 
 - Review Functions
-
 - Import images to videcode.com from other website. https://unsplash.com/
-   
-- Vidcode 
-  - Make Meme
-  
-- Download + install - Sublime Text (https://www.sublimetext.com/) 
+
+- Vidcode Project (In-cass) 
+  - Make Meme (walk through)
+  - Students make a meme using a downloaded image. 
+
 
 #### July 21
-- Review Variables 
-- Review Functions
+
+- Ice Breaker
+  - What is your favorite shoe
 
 - Take picture of your shoes
-  Tutorial on taking pictures and uploading them to vidcode.com
+  Tutorial: 
+  - Taking picture of your shoes
+  - Email them to yourself
+  - Download Picture from email
+  - Upload Picture to vidcode.com
 
-- Vidcode 
-  - Make Meme
+- Vidcode Project (In-class)
   - Doge Meme
-  - Javascript Test
+  
+   - Review Variables
+     - understand var
+     
+   - Review Functions
+     - What is in the parenthesis ()
+     - Multiple ways to do the same function
+     - .x, .y, .scale,  
+  
+   - Add text 
+     - var mytext = text("my favorite shoes")
+     - Review text refrences
+     
+   - Add second line of text
+   - Add filters   
+   - Save project
 
-- Download + install - Sublime Text (https://www.sublimetext.com/)
