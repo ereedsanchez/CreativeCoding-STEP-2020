@@ -49,6 +49,8 @@ CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt.
 
 
 #### Week 2 - Getting to know Javascript
+Slides: https://docs.google.com/presentation/d/1ezfT13c1HQuGO5uvBdH0FdKoDM2-p_Y8_lMvlbmW1sc/edit?usp=sharing
+
 #### July 20
 - Review last weeks projects
 - Review Variables 
@@ -61,7 +63,7 @@ CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt.
   
 - Download + install - Sublime Text (https://www.sublimetext.com/) 
 
-  #### July 21
+#### July 21
 - Review Variables 
 - Review Functions
 
