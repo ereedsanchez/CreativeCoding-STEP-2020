@@ -25,7 +25,7 @@ There will be no grades for this summer class
 #### Prizes: 
 There is an end of semester competition for best project.  1st place $100, 2nd place $50, 3rd place $25. 
 
-#### Please add a ICON that represents on your Zoom Account. 
+#### Please add a ICON that represents you on your Zoom Account. 
 
 
 ## Syllabus 
