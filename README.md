@@ -32,7 +32,8 @@ There is an end of semester competition for best project.  1st place $100, 2nd p
 The Syllabus will evolve through the semester. 
 
 
-#### Week 1 - Introductions
+## Week 1 - Introductions
+
 #### July 14
 - Who is your professor Edwin Reed-Sanchez? The power of code, and how to go from knowing nothing to installing a cellphone network on a remote island. 
   Slides: https://docs.google.com/presentation/d/1B6oHCOiXYakWqqTYde5xxxoSYElHabv8n3A4uh4eYBs/edit?usp=sharing  
@@ -57,7 +58,8 @@ CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt. T
   - Digital Quilt (walkthrough) 
 
 
-#### Week 2 - Getting to know Javascript
+
+## Week 2 - Getting to know Javascript
 Slides: https://docs.google.com/presentation/d/1ezfT13c1HQuGO5uvBdH0FdKoDM2-p_Y8_lMvlbmW1sc/edit?usp=sharing
 
 #### July 20
