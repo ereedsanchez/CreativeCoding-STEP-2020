@@ -50,8 +50,7 @@ The Syllabus will evolve through the semester.
 - var + hardcoded variables/functions. 
 - How to upload videos and graphics. 
 
-CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt. 
-Tryptics in Art:  For your projects we are working towards building a series of digital media that we can present as a tryptic. Slides will have some examples of trytics. 
+CONCEPT: Summer 2020 - Reflect your experience when making your digital quilt. TRIPTYCH IN ART:  For your projects we are working towards building a series of digital media that we can present as a triptyc. Slides will have some examples of tritycs. 
 
 - Vidcode (Inclass Projects)
   - Recreate Filter
